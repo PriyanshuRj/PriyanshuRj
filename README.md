@@ -1,10 +1,5 @@
-### Hello World 👋
-### This is Priyanshu Rajput🧑
-#### 👨‍🎓 Studying Computer Science and Engineering at NITH
-Skills: PYTHON, C, C++, JAVASCRIPT
 
 
-- 🌱 I’m currently learning Deep Learning 
 
 
 <h1> This is Priyanshu Rajput🧑</h1>
@@ -14,6 +9,11 @@ Skills: PYTHON, C, C++, JAVASCRIPT
 - 🎓 Studying CSE at National Insititute of Technology,Hamirpur
 - 💼 Volunteer at SPEC-NITH
 - 💼 Volunteer at Team Vibhav
+- 🌱 I’m currently learning Deep Learning 
+
+Skills: PYTHON, C, C++, JAVASCRIPT
+
+
 
  <br/>
  <a href="https://github.com/ankitakashyap05?tab=repositories">
