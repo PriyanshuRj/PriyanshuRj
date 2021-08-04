@@ -11,7 +11,7 @@
 - 💼 Volunteer at Team Vibhav
 - 🌱 I’m currently learning Deep Learning 
 
-Skills: PYTHON, C, C++, JAVASCRIPT
+Skills: PYTHON, C, C++, JAVASCRIPT, MERN
 
 
 
