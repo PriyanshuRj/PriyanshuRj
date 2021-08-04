@@ -16,7 +16,7 @@ Skills: PYTHON, C, C++, JAVASCRIPT
 
 
  <br/>
- <a href="https://github.com/ankitakashyap05?tab=repositories">
+ <a href="https://github.com/Priyanshu-rajput-01?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-rajput-01&show_icons=true&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=0d111a" width="45%" />
  
 <h3>🤝🏻Connect with Me </h3>
