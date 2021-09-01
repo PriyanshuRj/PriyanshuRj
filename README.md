@@ -6,7 +6,7 @@
 
 <h3> About Me </h3>  
 
-- 🎓 Studying CSE at National Insititute of Technology,Hamirpur
+- 🎓 pursuing Bachelors in CSE at National Insititute of Technology,Hamirpur
 - 💼 Volunteer at SPEC-NITH
 - 💼 Volunteer at Team Vibhav
 - 🌱 I’m currently learning Deep Learning 
