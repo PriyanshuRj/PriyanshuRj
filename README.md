@@ -6,6 +6,7 @@
 - 💼 Executive member at SPEC-NITH
 - 💼 Volunteer at Team Vibhav
 - 🌱 I’m currently learning Deep Learning 
+- 👯 I’m looking to collaborate on CNN
 
 Skills: MERN, PYTHON, C, C++, JAVASCRIPT, FLUTTER
 
