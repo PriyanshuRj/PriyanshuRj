@@ -1,7 +1,3 @@
-
-
-
-
 <h1> This is Priyanshu Rajput🧑</h1>
 
 <h3> About Me </h3>  
