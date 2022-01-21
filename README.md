@@ -4,8 +4,9 @@
 
 - 🎓 pursuing Bachelors in CSE at National Insititute of Technology,Hamirpur
 - 💼 Executive member at SPEC-NITH
-- 💼 Volunteer at Team Vibhav
+- 💼 Executive member at Team Vibhav
 - 🌱 I’m currently learning Deep Learning 
+- 🔭 I’m currently working on Computer Vision
 - 👯 I’m looking to collaborate on CNN
 
 Skills: MERN, PYTHON, C, C++, JAVASCRIPT, FLUTTER
