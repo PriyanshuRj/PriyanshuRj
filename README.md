@@ -20,6 +20,8 @@ Skills: MERN, PYTHON, C, C++, JAVASCRIPT, FLUTTER
 <a rel="noreferrer"href="hhttps://www.linkedin.com/in/priyanshu-rajput-144990201/" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </p>
+ <p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-rajput-01&show_icons=true&locale=en&layout=compact" alt="suyash2002" />&nbsp;</p>
 
 <!--
 **Priyanshu-rajput-01/Priyanshu-rajput-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
