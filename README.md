@@ -2,14 +2,12 @@
 
 <h3> About Me </h3>  
 
-- 🎓 pursuing Bachelors in CSE at National Insititute of Technology,Hamirpur
-- 💼 Coordinator at SPEC-NITH
-- 💼 Coordinator at Team Vibhav
-- 🌱 I’m currently learning Deep Learning 
-- 🔭 I’m currently working on Stagnography, Hand written text detection
-- 👯 I’m looking to collaborate on CNN
-
-Skills: MERN, PYTHON, C, C++, JAVASCRIPT, FLUTTER, TYPESCRIPT, SOLIDITY
+-  🎓 Bachelor of Technology in Computer Science and Engineering, National Institute of Technology Hamirpur — Class of 2024
+-  🛠️ Fluent in React, Node.js, Django, Mongo, SQL, Flutter, Solidity and the art of Google-fu
+-  🐇 Asynchronous enthusiast — Celery, RabbitMQ, and background tasks give me life
+-  📊 Also played with OCR, TensorFlow, LLM, LSTM, Steganography  (yeah, really)
+-  📁 Check out my projects — they ship faster than my sleep schedule
+-  🌐 Let’s build things that don’t just work — but wow
 
  <br/>
  <a href="https://github.com/Priyanshu-rajput-01?tab=repositories">
